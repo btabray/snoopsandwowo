@@ -1,2 +1,1 @@
-You're wondering: What's an East Park and what's it doing HERE? Well, they're placeholders for testing out .mp4 embedding in .swf files, and they're ABOUT TO BE DELETED from the repo because everything worked and I dont need them anymore.
-It's a series on my YouTube channel if you care...
+This is a folder for .mp4 files whenever I end up using them in the future... but only IF i actually do.
